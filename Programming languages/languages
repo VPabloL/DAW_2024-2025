@@ -1,1 +1,10 @@
+// Añadimos nuevos extraños lenguages de programación:
 
+Glass
+
+Glass is an esoteric programming language developed by Gregor Richards in 2005. It combines an unintuitive postfix notation with object orientation, requiring extensive juggling of the main stack to match its object-oriented structure. According to the author, no other language is implemented like this, because it would be idiotic.
+
+{F[f(_a)A!(_o)O!(_t)$(_n)1=,(_isle)(_n)*(_a)(le).?=/(_isle)^(_n)*(_a)
+s.?(_t)f.?(_n)*(_a)s.?(_t)f.?(_a)a.?]}{M[m(_a)A!(_f)F!(_o)O!(_n)=(_nlm)
+=/(_nlm)(_n)*(_f)f.?(_o)(on).?" "(_o)o.?(_n)(_n)*(_a)a.?=(_nlm)(_n)*
+(_a)(le).?=]}
